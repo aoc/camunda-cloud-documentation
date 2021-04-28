@@ -15,7 +15,7 @@ All new Tasks that have a Form assigned to it on the BPMN Diagram will render th
 
 ### Modeling the diagram and form
 
-Open the Camunda Modeler anc create a new Diagram for the Zeebe Engine.
+Open the Camunda Modeler and create a new diagram for the Zeebe Engine.
 ![Camunda Modeler initial screen with BPMN Diagram (Zeebe engine) highlighted](./img/camunda-forms-1-new-zeebe-diagram.png)
 
 Model a process with a User Task
