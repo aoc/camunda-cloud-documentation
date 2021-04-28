@@ -11,7 +11,7 @@ After deploying a Diagram with an embedded Form, Tasklist will import this Form 
 
 All new Tasks that have a Form assigned to it on the BPMN Diagram will render the Form modeled on the Camunda Modeler. The fields will be prefilled with Variables with the same names as the respective fields. When the Task is completed, Variables will be updated or created based on the field names of the Form.
 
-## How to use them?
+## How to use Camunda Forms?
 
 ### Modeling the Diagram and Form
 
