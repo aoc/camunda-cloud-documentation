@@ -7,7 +7,7 @@ title: Overview and example use case
 Tasklist shows you all user tasks that appeared in processes. Those processes are running in Zeebe.
 
 User tasks needs an interaction from the user - that can be updating, adding variables, filling out a Camunda Form or just completion of the task. The user needs to claim a task first or even unclaim an already claimed task.
-If the user has claimed a task, then the task is completable. Different Task status filters helps the user
+If the user has claimed a task, then the task is completable. Different task status filters help the user
 to choose the desired task.
 
 ## Example use case 
